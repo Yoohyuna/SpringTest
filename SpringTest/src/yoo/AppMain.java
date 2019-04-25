@@ -1,4 +1,4 @@
-package lee;
+package yoo;
 
 public class AppMain {
 
